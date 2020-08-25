@@ -1,7 +1,7 @@
 ## Project title
-A little info about your project and/ or overview that explains **what** the project is about.
+A simple Weather app showing the current temperature in Atlanta. Assigned in DigitalCrafts coding school. 
 
-## Decription
+<!-- ## Decription
 A little more description of what the project is about 
 
 ## Motivation
@@ -60,4 +60,4 @@ Give proper credits. This could be a link to any repo which inspired you to buil
 ## License
 A short snippet describing the license (MIT, Apache etc)
 
-MIT © [Yourname]()
+MIT © [Kevin Jeffers]() -->
